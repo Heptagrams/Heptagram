@@ -1,0 +1,2 @@
+ROOTDIR=/var/named/chroot
+OPTIONS=-4

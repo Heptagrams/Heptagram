@@ -1,0 +1,20 @@
+$ORIGIN example.com.
+$TTL 3600       ; 1 hour
+@ IN SOA ns1.example.com. postmaster.example.com. (
+        2015012902  ; serial
+        3600        ; refresh (1 hour)
+        1200        ; retry (20 min.)
+        1209600     ; expire (2 weeks)
+        900         ; minimum (15 min.)
+        )
+@       IN  NS      ns1.example.com.
+@       IN  NS      ns2.example.com.
+@       IN  MX      10 mail.example.com.
+@       IN  TXT     "v=spf1 mx ~all"    ; TXT
+@       IN  SPF     "v=spf1 mx ~all"    ; SPF
+
+ns1     IN  A       192.168.1.2
+ns2     IN  A       192.168.1.3
+mail    IN  A       192.168.1.4
+host1   IN  A       192.168.1.5
+www     IN  CNAME   host1
