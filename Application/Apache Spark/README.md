@@ -71,9 +71,9 @@ Content-Length: 684
   }
 }
 ```
+![image text](https://github.com/Al1ex/Heptagram/blob/master/Application/Apache%20Spark/exp.png)
 
 Use Explorer to view `http://your-ip:8081/logPage/?driverId={submissionId}&logType=stdout` to see the result:
-
-
+![image text](https://github.com/Al1ex/Heptagram/blob/master/Application/Apache%20Spark/result.png)
 
 
