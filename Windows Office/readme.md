@@ -1,0 +1,52 @@
+# office-exploits
+
+本仓库维护目前已知的 MS Office 漏洞，欢迎大家提交 pull request
+
+## 漏洞列表
+
+* [CVE-2017-8570](CVE-2017-8570)
+* [CVE-2017-8759](CVE-2017-8759)
+* [CVE-2017-11882](CVE-2017-11882)
+* [CVE-2018-0802](CVE-2018-0802)
+* [DDEAUTO](DDEAUTO)
+* [其他通过注入执行命令的方式](injections)
+
+## 其他漏洞
+
+以下漏洞还未测试
+
+* [CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)
+* [thom-s/docx-embeddedhtml-injection - This PowerShell script exploits a known vulnerability in Word 2016 documents with embedded online videos by injecting HTML code into a docx file, replacing the values of all pre-existing embeddedHtml tags](https://github.com/thom-s/docx-embeddedhtml-injection)
+* [webSettings.xml 获取 NTLM SSP hash](https://paper.seebug.org/484/)
+
+## macro 工具
+
+生成、混淆
+
+* [Shellntel/luckystrike - A PowerShell based utility for the creation of malicious Office macro documents](https://github.com/Shellntel/luckystrike)
+* [cldrn/macphish - Office for Mac Macro Payload Generator](https://github.com/cldrn/macphish)
+* [sevagas/macro_pack - a tool used to automatize obfuscation and generation of MS Office documents](https://github.com/sevagas/macro_pack)
+* [Mr-Un1k0d3r/MaliciousMacroGenerator - Malicious Macro Generator (支持VM检测)](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator)
+* [Pepitoh/VBad - VBA Obfuscation Tools combined with an MS office document generator](https://github.com/Pepitoh/VBad)
+* [enigma0x3/Generate-Macro - This Powershell script will generate a malicious Microsoft Office document with a specified payload and persistence method](https://github.com/enigma0x3/Generate-Macro)
+
+静态分析
+
+* [decalage2/oletools - python tools to analyze MS OLE2 files](https://github.com/decalage2/oletools)
+  * [mraptor](https://github.com/decalage2/oletools/wiki/mraptor)
+  * [olevba](https://github.com/decalage2/oletools/wiki/olevba)
+* [egaus/MaliciousMacroBot - malicious office documents triage tool](https://github.com/egaus/MaliciousMacroBot)
+
+模拟器、动态分析
+
+* [decalage2/ViperMonkey - A VBA parser and emulation engine to analyze malicious macros](https://github.com/decalage2/ViperMonkey)
+* [tehsyntx/loffice - Lazy Office Analyzer](https://github.com/tehsyntx/loffice)
+* [eset/vba-dynamic-hook - VBA Dynamic Hook dynamically analyzes VBA macros inside Office documents by hooking function calls](https://github.com/eset/vba-dynamic-hook)
+
+其他工具
+
+* [0x09AL/WordSteal - create a POC that will steal NTML hashes from a remote computer](https://github.com/0x09AL/WordSteal)
+
+## 其它项目
+
+* [office-exploit-case-study](https://github.com/houjingyi233/office-exploit-case-study)
