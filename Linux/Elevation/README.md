@@ -1,9 +1,7 @@
 # linux-kernel-exploits
 
 ### 简介
-
 linux-kernel-exploits
-
 
 ***
 
@@ -176,12 +174,13 @@ linux-kernel-exploits
 - [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)  
 - [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2/blob/master/linux-exploit-suggester-2.pl)  
 - [spencerdodd/kernelpop](https://github.com/spencerdodd/kernelpop)
+- [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER)
+
 
 ### 项目维护
 
-+ **ourren**(sina weibo <a href="http://weibo.com/codesec">@ourren</a>) 
-+ **hx**(sina weibo <a href="http://weibo.com/Hexajon">@hx</a>)
-+ **CaledoniaProject**(github <a href="https://github.com/CaledoniaProject">@CaledoniaProject</a>)
++ **Al1ex**(<a href="https://github.com/Al1ex">@Al1ex</a>) 
+
 
 ### 免责说明
 
@@ -194,13 +193,7 @@ linux-kernel-exploits
 - [A bunch of proof-of-concept exploits for the Linux kernel](https://github.com/xairy/kernel-exploits)  
 - [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 
-### 转载
-
-转载请注明来自https://github.com/SecWiki/linux-kernel-exploits
 
 ### 补充完善
-欢迎大家帮助补充完善　[git_man@outlook.com](git_man@outlook.com)  
-
-&copy;<a href="https://www.sec-wiki.com" target="_blank">SecWiki</a> 2017
-
+欢迎大家帮助补充完善~
 
