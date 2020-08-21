@@ -13,7 +13,7 @@ linux-kernel-exploits
 
 - [CVE–2018–1000001](./2018/CVE–2018–1000001)　　[glibc]  
 (glibc <= 2.26)  
-- [CVE-2018-17182](./2018/CVE-2018-17812) [Ubuntu 18.04, kernel linux-image-4.15.0-34-generic at version 4.15.0-34.37]
+- [CVE-2018-17182](./2018/CVE-2018-17182) [Ubuntu 18.04, kernel linux-image-4.15.0-34-generic at version 4.15.0-34.37]
 - [CVE-2017-1000367](./2017/CVE-2017-1000367)　　[Sudo]
 (Sudo 1.8.6p7 - 1.8.20)  
 
