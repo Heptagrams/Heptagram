@@ -7,7 +7,7 @@ linux-kernel-exploits
 
 #### 漏洞列表
 #### #CVE　　#Description　　#Kernels  
-
+- [CVE-2019-13272](./2019/CVE-2019-13272) [Linux kernel before 5.1.17]
 - [CVE–2018–18955](./2018/CVE-2018-18955)　　[map_write() in kernel/user_namespace.c allows privilege escalation]  
 (Linux kernel 4.15.x through 4.19.x before 4.19.2)  
 
