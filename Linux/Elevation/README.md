@@ -188,11 +188,10 @@ linux-kernel-exploits
 
 ### 参考链接
 
-- [kernel exploits](https://www.kernel-exploits.com/)
 - [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack/)
 - [A bunch of proof-of-concept exploits for the Linux kernel](https://github.com/xairy/kernel-exploits)  
 - [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
-
+- [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 
 ### 补充完善
 欢迎大家帮助补充完善~
